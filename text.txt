@@ -1,3 +1,4 @@
 init
 
 main - 11111
+sub - 2
