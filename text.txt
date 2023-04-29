@@ -1,3 +1,4 @@
 init
 
-main - 11111
+main - 1122
+sub - 2222
